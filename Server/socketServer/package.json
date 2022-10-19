@@ -1,0 +1,16 @@
+{
+    "name": "socketserver",
+    "version": "1.0.0",
+    "description": "socketServer for mask detection",
+    "main": "videoIOserver.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node videoIOserver.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "socket.io": "^4.5.1"
+    },
+    "type": "module"
+}
