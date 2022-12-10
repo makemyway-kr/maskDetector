@@ -2,7 +2,8 @@
 컴퓨터비전을 이용한 마스크 착용 단속 프로그램 서버<br>
 
 사용 라이브러리, 툴, 모델:<br>
-Tensorflow(Keras),Opencv,cvlib(https://github.com/arunponnusamy/cvlib),Densenet,Mobilenet<br>
+Tensorflow(Keras),Opencv,cvlib(https://github.com/arunponnusamy/cvlib)
+,Densenet,Mobilenet<br>
 <br>
 간단설명:
 영상 스트림을 videoClient가 프레임별로 웹 소켓을 통해 메인 서버로 전송하면<br>
